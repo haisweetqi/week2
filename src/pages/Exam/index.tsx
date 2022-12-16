@@ -5,7 +5,7 @@ import styled from "styled-components";
 import CountDownTime from "../../components/common/CountDownTime/CountDownTime";
 import breakPoints from "../../shared/breakPoints";
 import colors from "../../shared/colors";
-import converToMinutesAndSecond from "../../shared/convertTime";
+
 import { HttpStatusCode } from "../../shared/statusCode";
 import Content from "./components/ContentExam";
 import SidebarExam from "./components/Sidebar";
@@ -17,7 +17,6 @@ const Exam = () => {
   const [isFinish, setIsFinish] = useState(false);
   const [isOpenMenu, setIsOpenMenu] = useState(false);
   const [indexQuestion, setIndexQuestion] = useState(0);
-  const [userAnswers, setUserAnswers] = useState([]);
   const navigate = useNavigate();
 
   const getDataExam = async () => {
@@ -57,8 +56,6 @@ const Exam = () => {
     navigate("/finish");
   };
 
-  const isAnswered = (index: any) => {};
-
   useEffect(() => {
     getDataExam();
   }, []);
@@ -93,18 +90,7 @@ const Exam = () => {
                 handlePreQuestion={handlePreQuestion}
               />
             </div>
-            {/* 
-            <ButtonsWrap>
-              <Button onClick={handlePreQuesion} disabled={indexQuestion === 0}>
-                Previous
-              </Button>
-              <Button
-                onClick={handleNextQuesion}
-                disabled={indexQuestion === allQuestion.length - 1}
-              >
-                Next
-              </Button>
-            </ButtonsWrap> */}
+
             <ButtonGotoWrap onClick={() => setIsOpenMenu(true)}>
               <ButtonRound>Chuyển tới</ButtonRound>
             </ButtonGotoWrap>

@@ -1,4 +1,4 @@
-const converToMinutesAndSecond = (time: any) => {
+const convertTime = (time: any) => {
   const minutes = Math.floor(time / 60);
   const seconds = time - minutes * 60;
 
@@ -7,4 +7,4 @@ const converToMinutesAndSecond = (time: any) => {
   }`;
 };
 
-export default converToMinutesAndSecond;
+export default convertTime;

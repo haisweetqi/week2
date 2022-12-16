@@ -474,7 +474,7 @@
   ],
   "users": [
     {
-      "email": "admin@gmail.com",
+      "email": "vanhai@gmail.com",
       "password": "$2a$10$NiazJrHtUEzc9uK9YkyGmeqTbQCSiRy5b8ouU2WOwIz60WxOr2jFa",
       "id": 1,
       "avatar": "https://taimienphi.vn/tmp/cf/aut/anh-gai-xinh-1.jpg",
@@ -484,7 +484,7 @@
       "points": [100,200,300]
     },
     {
-      "email": "user@gmail.com",
+      "email": "admin@gmail.com",
       "password": "$2a$10$cxnsua9YOTtwRPIyPybGdO5U0ACIPsMsz9niWzJJr1V0pTQcQZ0Ti",
       "id": 2,
       "avatar": "https://kenh14cdn.com/thumb_w/620/2020/5/28/0-1590653959375414280410.jpg",

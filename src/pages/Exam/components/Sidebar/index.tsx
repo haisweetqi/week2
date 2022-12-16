@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 import styled, { css } from "styled-components";
 import { OverLay } from "../../../../GolbalStyles.styled";
@@ -14,8 +14,6 @@ const SidebarExam = ({
   handleSubmit,
   setIsOpenMenu,
 }: any) => {
-  // const questions = allQuestion.questions.length;
-
   const questions = allQuestion.questions || [];
 
   return (

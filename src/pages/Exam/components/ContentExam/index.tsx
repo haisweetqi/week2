@@ -19,8 +19,6 @@ const Content = ({
       ]
     : [];
 
-  const isChecked = (answer: any) => {};
-
   const handleCheckedAnswer = (answer: any) => {
     console.log(answer);
   };
@@ -43,7 +41,6 @@ const Content = ({
                   type="radio"
                   name={answer}
                   aria-label="answer"
-                  // checked={isChecked(answer)}
                   onChange={() => handleCheckedAnswer(answer)}
                 />
 
