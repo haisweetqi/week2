@@ -1,6 +1,6 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
-import { Link, useLocation, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import useAuth from "../../../hooks/useAuth";
 import breakPoints from "../../../shared/breakPoints";
 import background from "../../../assets/images/bgLogin.jpg";
@@ -108,7 +108,7 @@ const LoginWrapper = styled.div`
   }
 `;
 
-export const Form = styled.form`
+const Form = styled.form`
   position: relative;
   margin: 0 auto;
   width: 450px;
@@ -124,10 +124,10 @@ export const Form = styled.form`
   padding-top: 80px;
   padding-bottom: 80px;
 `;
-export const FormItem = styled.div`
+const FormItem = styled.div`
   width: 70%;
 `;
-export const InputContainer = styled.div`
+const InputContainer = styled.div`
   display: flex;
   align-items: center;
   height: 50px;
@@ -135,7 +135,7 @@ export const InputContainer = styled.div`
   border-radius: 5px;
   overflow: hidden;
 `;
-export const Input = styled.input`
+const Input = styled.input`
   width: 100%;
   height: 100%;
   outline: none;
@@ -143,7 +143,7 @@ export const Input = styled.input`
   padding: 0 10px;
 `;
 
-export const IconWrap = styled.div`
+const IconWrap = styled.div`
   width: 50px;
   height: 50px;
   display: flex;
@@ -152,7 +152,7 @@ export const IconWrap = styled.div`
   flex-shrink: 0;
 `;
 
-export const CheckBoxWrap = styled.label`
+const CheckBoxWrap = styled.label`
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -160,7 +160,7 @@ export const CheckBoxWrap = styled.label`
   user-select: none;
 `;
 
-export const ButtonForm = styled.button`
+const ButtonForm = styled.button`
   border: none;
   outline: none;
   text-transform: uppercase;

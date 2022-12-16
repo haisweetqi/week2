@@ -1,8 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import styled from "styled-components";
 import breakPoints from "../../../../shared/breakPoints";
-import { HttpStatusCode } from "../../../../shared/statusCode";
-import QuizService from "../../services";
 import QuizItem from "../QuizItem";
 
 const Quiz = ({ user, quiz }: any) => {
