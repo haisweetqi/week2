@@ -24,7 +24,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 `;
 
-export const OverLay = styled.div<ToggleProps>`
+export const NavbarDash = styled.div<ToggleProps>`
   position: fixed;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.3);

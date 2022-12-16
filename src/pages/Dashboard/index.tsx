@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 import breakPoints from "../../shared/breakPoints";
 import colors from "../../shared/colors";
-import { OverLay } from "../../GolbalStyles.styled";
+import { NavbarDash } from "../../GolbalStyles.styled";
 
 import { HiBars3 } from "react-icons/hi2";
 
@@ -139,7 +139,7 @@ const Dashboard = () => {
 
           <Button onClick={handleLogout}>Logout</Button>
         </SideMenu>
-        <OverLay show={isOpenMenu} onClick={closeMenu} />
+        <NavbarDash show={isOpenMenu} onClick={closeMenu} />
 
         <Content>
           <HeaderContent>

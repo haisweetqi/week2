@@ -1,7 +1,7 @@
 import React from "react";
 
 import styled, { css } from "styled-components";
-import { OverLay } from "../../../../GolbalStyles.styled";
+import { NavbarDash } from "../../../../GolbalStyles.styled";
 import breakPoints from "../../../../shared/breakPoints";
 import colors from "../../../../shared/colors";
 import { isActive } from "../../../../shared/interface";
@@ -33,7 +33,7 @@ const SidebarExam = ({
 
         <ButtonRound onClick={handleSubmit}>Submit</ButtonRound>
       </SideMenuButtonContainer>
-      <OverLay show={isOpenMenu} onClick={() => setIsOpenMenu(false)} />
+      <NavbarDash show={isOpenMenu} onClick={() => setIsOpenMenu(false)} />
     </>
   );
 };
