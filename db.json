@@ -1,0 +1,497 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum 1",
+      "time": 700,
+      "maxPoint": 500,
+      "ratings": 3,
+      "difficulty": "easy",
+      "questions": [
+        {
+          "id": "622a1c397cc59eab6f950eab",
+          "correctAnswer": "J. K. Rowling",
+          "incorrectAnswers": [
+            "Christopher Tolkien",
+            "Philip Pullman",
+            "C. S. Lewis"
+          ],
+          "question": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
+        },
+        {
+          "id": "622a1c397cc59eab6f950f96",
+          "correctAnswer": "William Shakespeare",
+          "incorrectAnswers": [
+            "Arthur C. Clarke",
+            "Isaac Newton",
+            "Enid Blyton"
+          ],
+          "question": "Which author wrote 'A Midsummer Night's Dream'?"
+        },
+        {
+          "id": "622a1c3e7cc59eab6f95225a",
+          "correctAnswer": "The Owl",
+          "incorrectAnswers": [
+            "The Robin",
+            "The Swan",
+            "The Albatross"
+          ],
+          "question": "In Edward Lear's poem, which bird sang to the pussycat?"
+        },
+        {
+          "id": "622a1c397cc59eab6f950eae",
+          "correctAnswer": "J. K. Rowling",
+          "incorrectAnswers": [
+            "Christopher Tolkien",
+            "Philip Pullman",
+            "C. S. Lewis"
+          ],
+          "question": "Which author wrote 'Harry Potter and the Goblet of Fire'?"
+        },
+        {
+          "id": "622a1c3a7cc59eab6f951373",
+          "correctAnswer": "The Lord of the Rings",
+          "incorrectAnswers": [
+            "Harry Potter",
+            "Red Rising",
+            "The Hunger Games"
+          ],
+          "question": "In which book series does 'Frodo Baggins' appear?"
+        },
+        {
+          "id": "622a1c397cc59eab6f950ebe",
+          "correctAnswer": "J. K. Rowling",
+          "incorrectAnswers": [
+            "Christopher Tolkien",
+            "Philip Pullman",
+            "C. S. Lewis"
+          ],
+          "question": "Which author wrote 'Harry Potter'?"
+        },
+        {
+          "id": "622a1c397cc59eab6f950f39",
+          "correctAnswer": "J. R. R. Tolkien",
+          "incorrectAnswers": [
+            "G. K. Chesterton",
+            "Philip Pullman",
+            "C. S. Lewis"
+          ],
+          "question": "Which author wrote 'The Lord of the Rings'?"
+        },
+        {
+          "id": "622a1c3d7cc59eab6f951c9b",
+          "correctAnswer": "Charles Dickens",
+          "incorrectAnswers": [
+            "Thomas Hardy",
+            "Jane Austen",
+            "Edgar Allen Poe"
+          ],
+          "question": "Who was the author of 'A Christmas Carol'?"
+        },
+        {
+          "id": "622a1c397cc59eab6f950ead",
+          "correctAnswer": "J. K. Rowling",
+          "incorrectAnswers": [
+            "Christopher Tolkien",
+            "Philip Pullman",
+            "C. S. Lewis"
+          ],
+          "question": "Which author wrote 'Harry Potter and the Philosopher's Stone'?"
+        },
+        {
+          "id": "622a1c397cc59eab6f950eb1",
+          "correctAnswer": "J. K. Rowling",
+          "incorrectAnswers": [
+            "Christopher Tolkien",
+            "Philip Pullman",
+            "C. S. Lewis"
+          ],
+          "question": "Which author wrote 'Harry Potter and the Chamber of Secrets'?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lorem Ipsum 2",
+      "time": 900,
+      "maxPoint": 250,
+      "ratings": 3,
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "62573efd9da29df7b05f7380",
+          "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "incorrectAnswers": [
+            "In order to power the city, beasts have to scare children so that they scream.",
+            "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+            "King Arthur and his Knights embark on a search for a religious relic."
+          ],
+          "question": "What is the plot of the movie Schindler's List?"
+        },
+        {
+          "id": "62573f009da29df7b05f7381",
+          "correctAnswer": "The Matrix",
+          "incorrectAnswers": [
+            "Pulp Fiction",
+            "Forrest Gump",
+            "Joker"
+          ],
+          "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+        },
+        {
+          "id": "622a1c377cc59eab6f950731",
+          "correctAnswer": "Leonardo DiCaprio",
+          "incorrectAnswers": [
+            "Ralph Fiennes",
+            "Brian Cox",
+            "Kiefer Sutherland"
+          ],
+          "question": "Which actor has featured in films including Titanic and Inception?"
+        },
+        {
+          "id": "625740839da29df7b05f73e3",
+          "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+          "incorrectAnswers": [
+            "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+            "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+            "A high school student is sent thirty years into the past in a time-traveling car."
+          ],
+          "question": "What is the plot of the movie Finding Nemo?"
+        },
+        {
+          "id": "622a1c377cc59eab6f95077c",
+          "correctAnswer": "Christian Bale",
+          "incorrectAnswers": [
+            "Keanu Reeves",
+            "Dan Aykroyd",
+            "Donald Sutherland"
+          ],
+          "question": "Which actor played Batman in the Dark Knight trilogy?"
+        }
+      ]
+    },
+      {
+      "id": 3,
+      "title": "Lorem Ipsum 3",
+      "time": 500,
+      "maxPoint": 150,
+      "ratings": 3,
+      "difficulty": "hard",
+      "questions": [
+        {
+          "id": "62573efd9da29df7b05f7380",
+          "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "incorrectAnswers": [
+            "In order to power the city, beasts have to scare children so that they scream.",
+            "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+            "King Arthur and his Knights embark on a search for a religious relic."
+          ],
+          "question": "What is the plot of the movie Schindler's List?"
+        },
+        {
+          "id": "62573f009da29df7b05f7381",
+          "correctAnswer": "The Matrix",
+          "incorrectAnswers": [
+            "Pulp Fiction",
+            "Forrest Gump",
+            "Joker"
+          ],
+          "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+        },
+        {
+          "id": "622a1c377cc59eab6f950731",
+          "correctAnswer": "Leonardo DiCaprio",
+          "incorrectAnswers": [
+            "Ralph Fiennes",
+            "Brian Cox",
+            "Kiefer Sutherland"
+          ],
+          "question": "Which actor has featured in films including Titanic and Inception?"
+        },
+        {
+          "id": "625740839da29df7b05f73e3",
+          "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+          "incorrectAnswers": [
+            "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+            "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+            "A high school student is sent thirty years into the past in a time-traveling car."
+          ],
+          "question": "What is the plot of the movie Finding Nemo?"
+        },
+        {
+          "id": "622a1c377cc59eab6f95077c",
+          "correctAnswer": "Christian Bale",
+          "incorrectAnswers": [
+            "Keanu Reeves",
+            "Dan Aykroyd",
+            "Donald Sutherland"
+          ],
+          "question": "Which actor played Batman in the Dark Knight trilogy?"
+        }
+      ]
+    },
+      {
+      "id": 4,
+      "title": "Lorem Ipsum 4",
+      "time": 370,
+      "maxPoint": 250,
+      "ratings": 3,
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "62573efd9da29df7b05f7380",
+          "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "incorrectAnswers": [
+            "In order to power the city, beasts have to scare children so that they scream.",
+            "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+            "King Arthur and his Knights embark on a search for a religious relic."
+          ],
+          "question": "What is the plot of the movie Schindler's List?"
+        },
+        {
+          "id": "62573f009da29df7b05f7381",
+          "correctAnswer": "The Matrix",
+          "incorrectAnswers": [
+            "Pulp Fiction",
+            "Forrest Gump",
+            "Joker"
+          ],
+          "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+        },
+        {
+          "id": "622a1c377cc59eab6f950731",
+          "correctAnswer": "Leonardo DiCaprio",
+          "incorrectAnswers": [
+            "Ralph Fiennes",
+            "Brian Cox",
+            "Kiefer Sutherland"
+          ],
+          "question": "Which actor has featured in films including Titanic and Inception?"
+        },
+        {
+          "id": "625740839da29df7b05f73e3",
+          "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+          "incorrectAnswers": [
+            "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+            "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+            "A high school student is sent thirty years into the past in a time-traveling car."
+          ],
+          "question": "What is the plot of the movie Finding Nemo?"
+        },
+        {
+          "id": "622a1c377cc59eab6f95077c",
+          "correctAnswer": "Christian Bale",
+          "incorrectAnswers": [
+            "Keanu Reeves",
+            "Dan Aykroyd",
+            "Donald Sutherland"
+          ],
+          "question": "Which actor played Batman in the Dark Knight trilogy?"
+        }
+      ]
+    },
+      {
+      "id": 5,
+      "title": "Lorem Ipsum 5",
+      "time": 760,
+      "maxPoint": 250,
+      "ratings": 3,
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "62573efd9da29df7b05f7380",
+          "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "incorrectAnswers": [
+            "In order to power the city, beasts have to scare children so that they scream.",
+            "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+            "King Arthur and his Knights embark on a search for a religious relic."
+          ],
+          "question": "What is the plot of the movie Schindler's List?"
+        },
+        {
+          "id": "62573f009da29df7b05f7381",
+          "correctAnswer": "The Matrix",
+          "incorrectAnswers": [
+            "Pulp Fiction",
+            "Forrest Gump",
+            "Joker"
+          ],
+          "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+        },
+        {
+          "id": "622a1c377cc59eab6f950731",
+          "correctAnswer": "Leonardo DiCaprio",
+          "incorrectAnswers": [
+            "Ralph Fiennes",
+            "Brian Cox",
+            "Kiefer Sutherland"
+          ],
+          "question": "Which actor has featured in films including Titanic and Inception?"
+        },
+        {
+          "id": "625740839da29df7b05f73e3",
+          "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+          "incorrectAnswers": [
+            "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+            "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+            "A high school student is sent thirty years into the past in a time-traveling car."
+          ],
+          "question": "What is the plot of the movie Finding Nemo?"
+        },
+        {
+          "id": "622a1c377cc59eab6f95077c",
+          "correctAnswer": "Christian Bale",
+          "incorrectAnswers": [
+            "Keanu Reeves",
+            "Dan Aykroyd",
+            "Donald Sutherland"
+          ],
+          "question": "Which actor played Batman in the Dark Knight trilogy?"
+        }
+      ]
+    },
+      {
+      "id": 6,
+      "title": "Lorem Ipsum 6",
+      "time": 390,
+      "maxPoint": 250,
+      "ratings": 3,
+      "difficulty": "hard",
+      "questions": [
+        {
+          "id": "62573efd9da29df7b05f7380",
+          "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "incorrectAnswers": [
+            "In order to power the city, beasts have to scare children so that they scream.",
+            "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+            "King Arthur and his Knights embark on a search for a religious relic."
+          ],
+          "question": "What is the plot of the movie Schindler's List?"
+        },
+        {
+          "id": "62573f009da29df7b05f7381",
+          "correctAnswer": "The Matrix",
+          "incorrectAnswers": [
+            "Pulp Fiction",
+            "Forrest Gump",
+            "Joker"
+          ],
+          "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+        },
+        {
+          "id": "622a1c377cc59eab6f950731",
+          "correctAnswer": "Leonardo DiCaprio",
+          "incorrectAnswers": [
+            "Ralph Fiennes",
+            "Brian Cox",
+            "Kiefer Sutherland"
+          ],
+          "question": "Which actor has featured in films including Titanic and Inception?"
+        },
+        {
+          "id": "625740839da29df7b05f73e3",
+          "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+          "incorrectAnswers": [
+            "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+            "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+            "A high school student is sent thirty years into the past in a time-traveling car."
+          ],
+          "question": "What is the plot of the movie Finding Nemo?"
+        },
+        {
+          "id": "622a1c377cc59eab6f95077c",
+          "correctAnswer": "Christian Bale",
+          "incorrectAnswers": [
+            "Keanu Reeves",
+            "Dan Aykroyd",
+            "Donald Sutherland"
+          ],
+          "question": "Which actor played Batman in the Dark Knight trilogy?"
+        }
+      ]
+    },
+      {
+      "id": 7,
+      "title": "Lorem Ipsum 7",
+      "time": 760,
+      "maxPoint": 350,
+      "ratings": 3,
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "62573efd9da29df7b05f7380",
+          "correctAnswer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "incorrectAnswers": [
+            "In order to power the city, beasts have to scare children so that they scream.",
+            "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+            "King Arthur and his Knights embark on a search for a religious relic."
+          ],
+          "question": "What is the plot of the movie Schindler's List?"
+        },
+        {
+          "id": "62573f009da29df7b05f7381",
+          "correctAnswer": "The Matrix",
+          "incorrectAnswers": [
+            "Pulp Fiction",
+            "Forrest Gump",
+            "Joker"
+          ],
+          "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'"
+        },
+        {
+          "id": "622a1c377cc59eab6f950731",
+          "correctAnswer": "Leonardo DiCaprio",
+          "incorrectAnswers": [
+            "Ralph Fiennes",
+            "Brian Cox",
+            "Kiefer Sutherland"
+          ],
+          "question": "Which actor has featured in films including Titanic and Inception?"
+        },
+        {
+          "id": "625740839da29df7b05f73e3",
+          "correctAnswer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+          "incorrectAnswers": [
+            "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+            "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+            "A high school student is sent thirty years into the past in a time-traveling car."
+          ],
+          "question": "What is the plot of the movie Finding Nemo?"
+        },
+        {
+          "id": "622a1c377cc59eab6f95077c",
+          "correctAnswer": "Christian Bale",
+          "incorrectAnswers": [
+            "Keanu Reeves",
+            "Dan Aykroyd",
+            "Donald Sutherland"
+          ],
+          "question": "Which actor played Batman in the Dark Knight trilogy?"
+        }
+      ]
+    }
+    
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$NiazJrHtUEzc9uK9YkyGmeqTbQCSiRy5b8ouU2WOwIz60WxOr2jFa",
+      "id": 1,
+      "avatar": "https://taimienphi.vn/tmp/cf/aut/anh-gai-xinh-1.jpg",
+      "roles": [
+        "Admin"
+      ],
+      "points": [100,200,300]
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$cxnsua9YOTtwRPIyPybGdO5U0ACIPsMsz9niWzJJr1V0pTQcQZ0Ti",
+      "id": 2,
+      "avatar": "https://kenh14cdn.com/thumb_w/620/2020/5/28/0-1590653959375414280410.jpg",
+      "roles": [
+        "User",  "Admin"
+      ],
+      "points": [200]
+    }
+  ]
+}
